@@ -1,7 +1,7 @@
 const fs = require("fs");
 const pool = require("../setup.js");
 
-const seedQuery = fs.readFileSync("./seeding.sql", "utf-8");
+const seedQuery = fs.readFileSync("seeding.sql", "utf-8");
 console.log(seedQuery);
 
 pool.query(seedQuery, (err, result) => {

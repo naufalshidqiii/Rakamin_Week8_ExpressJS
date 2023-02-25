@@ -1,24 +1,24 @@
 {
-  "name": "rakamin_week8_expressjs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/naufalshidqiii/Rakamin_Week8_ExpressJS.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/naufalshidqiii/Rakamin_Week8_ExpressJS/issues"
-  },
+	"name": "rakamin_week8_expressjs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/naufalshidqiii/Rakamin_Week8_ExpressJS.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/naufalshidqiii/Rakamin_Week8_ExpressJS/issues"
+	},
   "seed": "node db/index.js",
-  "homepage": "https://github.com/naufalshidqiii/Rakamin_Week8_ExpressJS#readme",
-  "dependencies": {
-    "express": "^4.18.2",
-    "pg": "^8.9.0"
-  }
+	"homepage": "https://github.com/naufalshidqiii/Rakamin_Week8_ExpressJS#readme",
+	"dependencies": {
+		"express": "^4.18.2",
+		"pg": "^8.9.0"
+	}
 }
